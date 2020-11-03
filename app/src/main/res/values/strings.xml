@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UTS NO 1</string>
+    <string name="textview">TextView</string>
+    <string name="namadetail">Namadetail</string>
+    <string name="gambarlogo">gambarlogo</string>
+</resources>
